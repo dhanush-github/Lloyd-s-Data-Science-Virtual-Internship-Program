@@ -8,11 +8,17 @@ This repository showcases an end-to-end data science project for predicting cust
 
 📦customer-churn-prediction/
 ├── 📊 Customer_Churn_Data_Large.xlsx # Raw data with 5 sheets
+
 ├── 📓 Customer_Churn_Modeling.ipynb # Jupyter notebook with full pipeline
+
 ├── 📄 Customer_Churn_Model_Report.pdf # Model training & results summary
+
 ├── 📄 Customer_Churn_Model_Report.docx # Same as PDF in Word format
+
 ├── 📄 Customer_Churn_EDA_Complete_Report.pdf # EDA, data selection & preprocessing report
+
 ├── 📄 Customer_Churn_EDA_Plots_With_Explanation.pdf # Plots with business interpretations
+
 └── 📜 requirements.txt # List of dependencies
 
 
